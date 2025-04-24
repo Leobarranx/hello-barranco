@@ -12,4 +12,8 @@ public class hello {
 
 //stampa la data di nascita
     System.out.println("26/11/2007");
+
+//stampo la mia squadra
+    System.out.println("milan");
+
 }
