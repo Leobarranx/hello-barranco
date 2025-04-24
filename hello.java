@@ -9,4 +9,7 @@ public class hello {
     for(int i=0; i<3; i++){
         System.out.println("barranco");
     }
+
+//stampa la data di nascita
+    System.out.println("26/11/2007");
 }
