@@ -16,4 +16,20 @@ public class hello {
 //stampo la mia squadra
     System.out.println("milan");
 
+//arrey di caratteri con le lettere del nome "leonardo"
+    char[] nome = {'l', 'e', 'o', 'n', 'a', 'r', 'd', 'o'};
+//stampo l'arrey
+    for(char lettera : lettere){
+        System.out.println(lettera);
+    }
+
+    vectror<character> lettere = new vector<>();
+    nome.add('l');
+    nome.add('e');
+    nome.add('o');
+    nome.add('n');
+    nome.add('a');
+    nome.add('r');
+    nome.add('d');
+    nome.add('o');
 }
